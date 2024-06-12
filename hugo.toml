@@ -34,7 +34,7 @@ gcse = false
 lastmod = false
 rss = false
 pagination = "10"
-hideAuthor = false
+hideAuthor = true
 description="Your can add your website description here."
 previewCardImagePlacement = "bottom"
 
