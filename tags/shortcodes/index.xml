@@ -6,14 +6,14 @@
     <description>Recent content in Shortcodes on Cloud, DevOps, Databases and AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://michaelagarwal.github.io/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rich Content</title>
+      <title>Rich Content Via Hugo</title>
       <link>https://michaelagarwal.github.io/content/post/2020/jan/rich-content/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://michaelagarwal.github.io/content/post/2020/jan/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&#xA;YouTube privacy enhanced shortcode The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:&#xA;YouTube URL:&#xA;https://www.youtube.com/watch?v=3qHkcs3kG44 Shortcode:&#xA;{{&amp;lt; youtube 3qHkcs3kG44 &amp;gt;}} Rendered output: Twitter You want to include a single tweet into your blog post?</description>
+      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&#xA;YouTube privacy enhanced shortcode The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:&#xA;YouTube URL:&#xA;https://www.youtube.com/watch?v=3qHkcs3kG44 Shortcode:&#xA;{{&amp;lt; youtube 3qHkcs3kG44 &amp;gt;}} Rendered output: Headings&#xA;To create a heading, add number signs (#) in front of a word or phrase.</description>
     </item>
   </channel>
 </rss>
