@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Collections on Cloud, DevOps, Databases and AI with Michael</title>
-    <link>https://michaelagarwal.github.io/content/collections/</link>
-    <description>Recent content in Collections on Cloud, DevOps, Databases and AI with Michael</description>
+    <title>Technical Debt on Cloud, DevOps, Databases and AI with Michael</title>
+    <link>https://michaelagarwal.github.io/tags/technical-debt/</link>
+    <description>Recent content in Technical Debt on Cloud, DevOps, Databases and AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://michaelagarwal.github.io/content/collections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaelagarwal.github.io/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technical Debt</title>
       <link>https://michaelagarwal.github.io/content/collections/2023/technical-debt/</link>

@@ -6,28 +6,35 @@
     <description>Recent content on Cloud, DevOps, Databases and AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://michaelagarwal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Updates</title>
+      <link>https://michaelagarwal.github.io/content/notes/2020/change/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://michaelagarwal.github.io/content/notes/2020/change/</guid>
+      <description>Check out new GPT-4o model, lot cheaper and better compared to some of previous GPT models</description>
+    </item>
+    <item>
+      <title>Parenting</title>
+      <link>https://michaelagarwal.github.io/parenting/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://michaelagarwal.github.io/parenting/</guid>
+      <description>Last updated: 16th June 2024&#xA;Being a parent for 19+ years, I learned a thing or two.&#xA;Being new parent (0-3 year old kids) First and foremost there is no perfect parent. All you can do in try your best. Trying too hard or setting your own parenting expectations too high can lead to unnecessary frustration. Don&amp;rsquo;t compare your kids to others, each kid is different and unique, they will develop on their own pace.</description>
+    </item>
+    <item>
+      <title>Technical Debt</title>
+      <link>https://michaelagarwal.github.io/content/collections/2023/technical-debt/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://michaelagarwal.github.io/content/collections/2023/technical-debt/</guid>
+      <description>Last updated: 2024-02-24&#xA;Part 1: Technical Debt Due to Monolithic Applications Large monolithic applications are not only challenging to scale but also difficult to comprehend and modify. Often, changes in one part of the application can inadvertently break another, adding complexity and unpredictability to the development process.&#xA;1️⃣ Technical Debt in Monolithic Applications Monolithic applications often suffer from significant technical debt due to their rigid, intertwined structures. This complexity hinders updates and new feature integrations, leading to escalated maintenance efforts and costs.</description>
+    </item>
     <item>
       <title>Rich Content Via Hugo</title>
       <link>https://michaelagarwal.github.io/content/post/2020/jan/rich-content/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://michaelagarwal.github.io/content/post/2020/jan/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&#xA;YouTube privacy enhanced shortcode The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:&#xA;YouTube URL:&#xA;https://www.youtube.com/watch?v=3qHkcs3kG44 Shortcode:&#xA;{{&amp;lt; youtube 3qHkcs3kG44 &amp;gt;}} Rendered output: Headings&#xA;To create a heading, add number signs (#) in front of a word or phrase.</description>
-    </item>
-    <item>
-      <title>1. I Love My Wife</title>
-      <link>https://michaelagarwal.github.io/content/collections/2023/collections/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://michaelagarwal.github.io/content/collections/2023/collections/</guid>
-      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&#xA;A habit of creating learning exhaust:&#xA;Write blogs and tutorials and cheatsheets. Speak at meetups and conferences. Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.</description>
-    </item>
-    <item>
-      <title>Note 1</title>
-      <link>https://michaelagarwal.github.io/content/notes/2020/change/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://michaelagarwal.github.io/content/notes/2020/change/</guid>
-      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
     </item>
     <item>
       <title></title>
