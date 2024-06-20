@@ -6,12 +6,12 @@
     <description>Recent content in Collections on Cloud, DevOps, Databases and AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://michaelagarwal.github.io/content/collections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technical Debt</title>
       <link>https://michaelagarwal.github.io/content/collections/2023/technical-debt/</link>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://michaelagarwal.github.io/content/collections/2023/technical-debt/</guid>
       <description>Last updated: 2024-06-19&#xA;❓ What is this technical debt, and why is it considered technical debt?&#xA;Technical debt arises when an organization continues to use outdated or unsupported software. This software, no longer receiving updates or support from software product companies, becomes a liability. The primary issue with such software is security, without regular updates, systems become vulnerable to new cyber threats. Additionally, outdated software often struggles with compatibility, failing to integrate smoothly with newer technologies or systems.</description>
     </item>
