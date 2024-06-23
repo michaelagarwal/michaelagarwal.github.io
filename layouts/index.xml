@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Layouts on Cloud, DevOps, Databases and AI with Michael</title>
-    <link>https://michaelagarwal.github.io/layouts/</link>
+    <link>http://localhost:1313/layouts/</link>
     <description>Recent content in Layouts on Cloud, DevOps, Databases and AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://michaelagarwal.github.io/layouts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/layouts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://michaelagarwal.github.io/layouts/partials/footer_custom/</link>
+      <link>http://localhost:1313/layouts/partials/footer_custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://michaelagarwal.github.io/layouts/partials/footer_custom/</guid>
+      <guid>http://localhost:1313/layouts/partials/footer_custom/</guid>
       <description> </description>
     </item>
     <item>
       <title></title>
-      <link>https://michaelagarwal.github.io/layouts/partials/head_custom/</link>
+      <link>http://localhost:1313/layouts/partials/head_custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://michaelagarwal.github.io/layouts/partials/head_custom/</guid>
+      <guid>http://localhost:1313/layouts/partials/head_custom/</guid>
       <description> </description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Cloud, DevOps, Databases and AI with Michael</title>
-    <link>https://michaelagarwal.github.io/content/notes/</link>
+    <link>http://localhost:1313/content/notes/</link>
     <description>Recent content in Notes on Cloud, DevOps, Databases and AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://michaelagarwal.github.io/content/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/content/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Updates</title>
-      <link>https://michaelagarwal.github.io/content/notes/2020/change/</link>
+      <link>http://localhost:1313/content/notes/2020/change/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://michaelagarwal.github.io/content/notes/2020/change/</guid>
-      <description>Check out new GPT-4o model, lot cheaper and better compared to some of previous GPT models</description>
+      <guid>http://localhost:1313/content/notes/2020/change/</guid>
+      <description>19th June 2024 Claude 3.5 Sonnet was released. If you compare it with other LLM models, it does fairly well:&#xA;13th May 2024 Check out new GPT-4o model, lot cheaper and better compared to some of previous GPT models</description>
     </item>
   </channel>
 </rss>
