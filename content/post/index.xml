@@ -6,8 +6,15 @@
     <description>Recent content on Cloud, DevOps, Databases and AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/content/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Updates</title>
+      <link>http://localhost:1313/content/post/2020/jan/aws-updates/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/content/post/2020/jan/aws-updates/</guid>
+      <description>AWS updates week of 12/15/2020 Amazon location service was launched, and I have a feeling not much adoption will happen. Google Maps is way ahead in terms of features and adoption</description>
+    </item>
     <item>
       <title>Rich Content Via Hugo</title>
       <link>http://localhost:1313/content/post/2020/jan/rich-content/</link>
