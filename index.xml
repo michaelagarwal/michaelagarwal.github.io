@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloud, DevOps, Databases and AI with Michael</title>
+    <title>Cloud, DevOps, Databases &amp; AI with Michael</title>
     <link>https://michaelagarwal.github.io/</link>
-    <description>Recent content on Cloud, DevOps, Databases and AI with Michael</description>
+    <description>Recent content on Cloud, DevOps, Databases &amp; AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>https://michaelagarwal.github.io/content/post/2020/jan/aws-updates/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://michaelagarwal.github.io/content/post/2020/jan/aws-updates/</guid>
-      <description>AWS updates week of 12/15/2020 Amazon location service was launched, and I have a feeling not much adoption will happen. Google Maps is way ahead in terms of features and adoption.&#xA;Written By Michael Agarwal</description>
+      <description>AWS main updates week of 06/17/2024 FOCUS is a new open-source cloud billing data specification that provides standardization to simplify cloud financial management across multiple sources. Data Exports for FOCUS 1.0 includes several AWS-specific columns, such as usage types and cost categories, and delivers exports on a daily basis to Amazon S3 as Parquet or CSV files.&#xA;Anthropic’s Claude 3.5 Sonnet foundation model is now generally available in Amazon Bedrock. That was fast :-)</description>
     </item>
     <item>
       <title>AI Updates</title>
