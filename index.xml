@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud, DevOps, Databases and AI with Michael</title>
-    <link>http://localhost:1313/</link>
+    <link>https://michaelagarwal.github.io/</link>
     <description>Recent content on Cloud, DevOps, Databases and AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaelagarwal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS Updates</title>
-      <link>http://localhost:1313/content/post/2020/jan/aws-updates/</link>
+      <link>https://michaelagarwal.github.io/content/post/2020/jan/aws-updates/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/post/2020/jan/aws-updates/</guid>
+      <guid>https://michaelagarwal.github.io/content/post/2020/jan/aws-updates/</guid>
       <description>AWS updates week of 12/15/2020 Amazon location service was launched, and I have a feeling not much adoption will happen. Google Maps is way ahead in terms of features and adoption.&#xA;Written By Michael Agarwal</description>
     </item>
     <item>
       <title>AI Updates</title>
-      <link>http://localhost:1313/content/notes/2020/change/</link>
+      <link>https://michaelagarwal.github.io/content/notes/2020/change/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/notes/2020/change/</guid>
+      <guid>https://michaelagarwal.github.io/content/notes/2020/change/</guid>
       <description>19th June 2024&#xA;Claude 3.5 Sonnet was released. If you compare it with other LLM models, it does fairly well:&#xA;(Reference: https://www.anthropic.com/news/claude-3-5-sonnet)&#xA;13th May 2024&#xA;Check out new GPT-4o model, lot cheaper and better compared to some of previous GPT models&#xA;Written By Michael Agarwal</description>
     </item>
     <item>
       <title>Technical Debt</title>
-      <link>http://localhost:1313/content/collections/2023/technical-debt/</link>
+      <link>https://michaelagarwal.github.io/content/collections/2023/technical-debt/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/collections/2023/technical-debt/</guid>
+      <guid>https://michaelagarwal.github.io/content/collections/2023/technical-debt/</guid>
       <description>Last updated: 2024-06-19&#xA;❓ What is this technical debt, and why is it considered technical debt?&#xA;Technical debt arises when an organization continues to use outdated or unsupported software. This software, no longer receiving updates or support from software product companies, becomes a liability. The primary issue with such software is security, without regular updates, systems become vulnerable to new cyber threats. Additionally, outdated software often struggles with compatibility, failing to integrate smoothly with newer technologies or systems.</description>
     </item>
     <item>
       <title>Parenting</title>
-      <link>http://localhost:1313/parenting/</link>
+      <link>https://michaelagarwal.github.io/parenting/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/parenting/</guid>
+      <guid>https://michaelagarwal.github.io/parenting/</guid>
       <description>Last updated: 16th June 2024&#xA;Being a parent for 19+ years, I learned a thing or two.&#xA;Being new parent (0-3 year old kids) First and foremost there is no perfect parent. All you can do in try your best. Trying too hard or setting your own parenting expectations too high can lead to unnecessary frustration. Don&amp;rsquo;t compare your kids to others, each kid is different and unique, they will develop on their own pace.</description>
     </item>
     <item>
       <title>Rich Content Via Hugo</title>
-      <link>http://localhost:1313/content/post/2020/jan/rich-content/</link>
+      <link>https://michaelagarwal.github.io/content/post/2020/jan/rich-content/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/post/2020/jan/rich-content/</guid>
+      <guid>https://michaelagarwal.github.io/content/post/2020/jan/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&#xA;YouTube privacy enhanced shortcode The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:&#xA;YouTube URL:&#xA;https://www.youtube.com/watch?v=3qHkcs3kG44 Shortcode:&#xA;{{&amp;lt; youtube 3qHkcs3kG44 &amp;gt;}} Rendered output: Headings&#xA;To create a heading, add number signs (#) in front of a word or phrase.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/layouts/partials/footer_custom/</link>
+      <link>https://michaelagarwal.github.io/layouts/partials/footer_custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/layouts/partials/footer_custom/</guid>
+      <guid>https://michaelagarwal.github.io/layouts/partials/footer_custom/</guid>
       <description> </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/layouts/partials/head_custom/</link>
+      <link>https://michaelagarwal.github.io/layouts/partials/head_custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/layouts/partials/head_custom/</guid>
+      <guid>https://michaelagarwal.github.io/layouts/partials/head_custom/</guid>
       <description> </description>
     </item>
   </channel>

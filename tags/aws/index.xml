@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS on Cloud, DevOps, Databases and AI with Michael</title>
-    <link>http://localhost:1313/tags/aws/</link>
+    <link>https://michaelagarwal.github.io/tags/aws/</link>
     <description>Recent content in AWS on Cloud, DevOps, Databases and AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaelagarwal.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS Updates</title>
-      <link>http://localhost:1313/content/post/2020/jan/aws-updates/</link>
+      <link>https://michaelagarwal.github.io/content/post/2020/jan/aws-updates/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/post/2020/jan/aws-updates/</guid>
-      <description>AWS updates week of 12/15/2020 Amazon location service was launched, and I have a feeling not much adoption will happen. Google Maps is way ahead in terms of features and adoption</description>
+      <guid>https://michaelagarwal.github.io/content/post/2020/jan/aws-updates/</guid>
+      <description>AWS updates week of 12/15/2020 Amazon location service was launched, and I have a feeling not much adoption will happen. Google Maps is way ahead in terms of features and adoption.&#xA;Written By Michael Agarwal</description>
     </item>
   </channel>
 </rss>
