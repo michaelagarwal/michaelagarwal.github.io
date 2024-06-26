@@ -6,8 +6,15 @@
     <description>Recent content on Cloud, DevOps, Databases &amp; AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://michaelagarwal.github.io/content/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Updates</title>
+      <link>https://michaelagarwal.github.io/content/post/2024/june/azure-updates/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://michaelagarwal.github.io/content/post/2024/june/azure-updates/</guid>
+      <description>Azure main updates for month of May Azure Virtual Network Manager’s virtual network verifier feature is now in public preview, enabling you to check if your network policies allow or disallow traffic between your Azure network resources.&#xA;Azure Load Balancer now supports health event logs to help you identify and troubleshoot ongoing issues affecting your load balancer resource’s health.&#xA;VM hibernation for general-purpose VMs is now generally available in all public regions.</description>
+    </item>
     <item>
       <title>AWS Updates</title>
       <link>https://michaelagarwal.github.io/content/post/2020/jan/aws-updates/</link>
