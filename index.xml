@@ -6,8 +6,15 @@
     <description>Recent content on Cloud, DevOps, Databases &amp; AI with Michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://michaelagarwal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Updates</title>
+      <link>https://michaelagarwal.github.io/content/post/2024/june/ai-updates/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://michaelagarwal.github.io/content/post/2024/june/ai-updates/</guid>
+      <description>AI main updates 19th June 2024&#xA;Claude 3.5 Sonnet was released. If you compare it with other LLM models, it does fairly well:&#xA;(Reference: https://www.anthropic.com/news/claude-3-5-sonnet)&#xA;13th May 2024&#xA;Check out new GPT-4o model, lot cheaper and better compared to some of previous GPT models&#xA;Written By Michael Agarwal</description>
+    </item>
     <item>
       <title>Azure Updates</title>
       <link>https://michaelagarwal.github.io/content/post/2024/june/azure-updates/</link>
@@ -21,13 +28,6 @@
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://michaelagarwal.github.io/content/post/2020/jan/aws-updates/</guid>
       <description>AWS main updates week of 06/17/2024 FOCUS is a new open-source cloud billing data specification that provides standardization to simplify cloud financial management across multiple sources. Data Exports for FOCUS 1.0 includes several AWS-specific columns, such as usage types and cost categories, and delivers exports on a daily basis to Amazon S3 as Parquet or CSV files.&#xA;Anthropic’s Claude 3.5 Sonnet foundation model is now generally available in Amazon Bedrock. That was fast :-)</description>
-    </item>
-    <item>
-      <title>AI Updates</title>
-      <link>https://michaelagarwal.github.io/content/notes/2020/change/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://michaelagarwal.github.io/content/notes/2020/change/</guid>
-      <description>19th June 2024&#xA;Claude 3.5 Sonnet was released. If you compare it with other LLM models, it does fairly well:&#xA;(Reference: https://www.anthropic.com/news/claude-3-5-sonnet)&#xA;13th May 2024&#xA;Check out new GPT-4o model, lot cheaper and better compared to some of previous GPT models&#xA;Written By Michael Agarwal</description>
     </item>
     <item>
       <title>Technical Debt</title>
